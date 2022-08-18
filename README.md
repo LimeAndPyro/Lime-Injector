@@ -5,7 +5,10 @@ A Simple DLL injector
 
 # How To Use
 
--Select dll
--Select Running process to inject your dll into
--Inject
--Have fun
+1.Select dll
+
+2.Select Running process to inject your dll into
+
+3.Inject
+
+4.Have fun
