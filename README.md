@@ -12,3 +12,7 @@ A Simple DLL injector
 3.Inject
 
 4.Have fun
+
+# Special thanks
+I learned most of the things i needed to make this a forms application and also some of the functions Here
+https://www.youtube.com/watch?v=bagxAyCzQAs
